@@ -1,0 +1,31 @@
+body {
+  background-color: #f0f8ff; /* Light blue background */
+}
+
+fieldset {
+  background-color: #ffffff; /* White background for each form section */
+  border: 3px solid #0078d7; /* Blue border */
+  border-radius: 8px;
+}
+
+legend {
+  color: Blue;
+  font-weight: bold;
+}
+
+label {
+  color: #333; /* Dark gray text color */
+}
+
+button {
+  background-color: #0078d7; /* Blue button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3; /* Darker blue on hover */
+}
